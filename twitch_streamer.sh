@@ -15,7 +15,7 @@
 : ${BUFFER:="4000k"}
 : ${THREADS:="auto"}
 
-: ${SERVER:="rtmp://live.twitch.tv/app/"}
+: ${SERVER:="rtmp://grm.jetstreams.xyz/live/"}
 
 ffmpeg \
 -an \
